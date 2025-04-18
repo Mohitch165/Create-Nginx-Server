@@ -47,7 +47,7 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 
 ## 📄 License
 
-*Specify the license under which the project is distributed.*
+*This project is under MIT LIcense.*
 
 ## 📫 Contact
 
